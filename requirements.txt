@@ -1,0 +1,10 @@
+streamlit
+streamlit-searchbox
+spotipy
+python-dotenv
+pandas
+numpy
+scikit-learn
+scipy
+joblib
+requests
