@@ -1,5 +1,7 @@
 # 🎧 Spotify Vibe Recommender
 
+https://github.com/PabloFerreiraP/gnod-spotify-recommender
+
 An end-to-end unsupervised Machine Learning music recommender built with **Python**, **Spotipy**, **ReccoBeats API**, **Scikit-Learn**, and **Streamlit**. Search for any song on Spotify and get the **Top 10 closest sonic matches** from a curated personal music library.
 
 ## 🚀 How It Works
